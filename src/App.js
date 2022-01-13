@@ -5,7 +5,7 @@ import Navbar from './components/Navbar';
 function App() {
   return (
     < >
-   <Navbar> samarth</Navbar>
+   <Navbar> samarth dada</Navbar>
     </>
   );
 }
